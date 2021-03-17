@@ -1,0 +1,42 @@
+.Know {
+    position: absolute;
+    width: 1300px;
+    height: 800px;
+    left: -3px;
+    top: 4050px;
+    
+    background: #ffffff;
+}
+
+.par {
+    position: absolute;
+    width: 217px;
+    height: 20px;
+    left: 586px;
+    top: 100px;
+    font-family: Larsseit;
+    font-size: 16px;
+    color: #22356F;
+}
+
+.foto {
+    width: 430px;
+    height: 750px;
+}
+
+.mine {
+    position: absolute;
+    width: 676px;
+    height: 215px;
+    left: 586px;
+    margin-top: -40px;
+    font-family: Larsseit;
+    font-size: 30px;
+    line-height: 53px;
+    letter-spacing: -0.01em;
+    color: #22356F;
+}
+
+.logo {
+    color: #62D0DF;
+}

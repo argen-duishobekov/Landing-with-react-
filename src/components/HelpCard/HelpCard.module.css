@@ -1,0 +1,46 @@
+.helpCard {
+      position:relative;
+      display:inline-flex;
+      justify-content:space-around;
+      width: 337px;
+      height: 360px;
+      background: #ffe2de;
+      font-family: Larsseit;
+      font-size: 32px;
+      top: 1150px;
+      /* line-height: 34px; */
+      letter-spacing: -0.006em;
+      color: #ffffff;
+  }
+  
+  .helpCard hr {
+      position: absolute;
+    
+  }
+
+  h3 {
+     position: ;
+     width: 218px;
+     height: 54px;
+     left: 798px;
+     margin-top: 150px;  
+     font-family: Larsseit;
+     font-size: 30px;
+     line-height: 44px;
+     font-weight: bold;
+     color: #FFFFFF;
+  }
+
+h4 {
+    position: absolute;
+    width: 201px;
+    height: 21px;
+    left: 620px;
+    top: 1730px;
+    font-family: Larsseit;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: rgba(34, 53, 111, 0.5);
+  }

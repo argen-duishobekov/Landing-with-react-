@@ -1,0 +1,25 @@
+.textOne {
+    position:relative;
+    display: inline-block;
+    left: 80px;
+    /* display: inline-block; */
+    height: 320px;
+    width: 400px;
+    top: 1450px;
+    color: rgb(9, 52, 245);
+    font-size: 30px;
+    /* background-color: aqua; */
+    /* margin-top: 500px; */
+}
+
+.textTwo{
+    
+}
+
+.textThree {
+    position: absolute;
+    font-size: 18px;
+    margin-top:80px;
+    right: 150px;
+    color: rgba(34, 53, 111, 0.5);
+}

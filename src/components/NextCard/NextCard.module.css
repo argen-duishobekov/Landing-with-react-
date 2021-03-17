@@ -1,0 +1,18 @@
+.nextCard {
+    position:relative;
+    display: inline-block;
+    background-image: url(../../images/three.png);
+    width: 449px;
+    height: 480px;
+    left: ;
+    top: 1300px;
+}
+
+h2 {
+    position: relative;
+    justify-content: center;
+   display: flex;
+   font-size: 40px;
+   top: 140px;
+   color:white;
+}

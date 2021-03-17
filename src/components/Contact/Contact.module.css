@@ -1,0 +1,65 @@
+.contact {
+    position: absolute;
+    width: 1300px;
+    height: 800px;
+    left: 0px;
+    top: 4709px;
+    background: #22356F
+}
+
+.foto {
+    position: absolute;
+    width: 450px;
+    height: 800px;
+    left: 900px;
+}
+
+.par {
+    position: absolute;
+    width: 108px;
+    height: 14px;
+    left: 180px;
+    top: 100px;
+    font-family: Larsseit;
+    font-size: 16px;
+    line-height: 12px;
+    color: #ffff;
+}
+
+.ready {
+    width: 704px;
+    height: 66px;
+    left: 180px;
+    top: 200px;
+    font-family: Larsseit;
+    font-size: 64px;
+    line-height: 94px;
+    letter-spacing: -0.01em;
+    color: #ffff;
+}
+
+.text {
+    position: absolute;
+    width: 579px;
+    height: 253px;
+    left: 180px;
+    top: 400px;
+    font-family: Larsseit;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.005em;
+    color: #FFFFFF;
+}
+
+.us {
+    position: absolute;
+    left: 180px;
+    top: 650px;
+    font-family: Larsseit;
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #62D0DF;
+}

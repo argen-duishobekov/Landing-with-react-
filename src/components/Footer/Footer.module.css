@@ -1,0 +1,27 @@
+.footer {
+    position: absolute;
+    width: 1300px;
+    height: 380px;
+    left: 0px;
+    top: 5509px;
+    background: #ffff;
+}
+
+.one {
+    position:;
+    display: flex;
+}
+
+.text {
+    position:absolute;
+    top: 200px;
+}
+
+.foto {
+    margin-top: -10px;
+}
+
+.foot {
+    position:absolute;
+    display: inline-block;
+}
